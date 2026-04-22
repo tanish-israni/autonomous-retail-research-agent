@@ -5,7 +5,6 @@ An agentic AI market research project built with Streamlit, CrewAI, LangChain, a
 ## Live App
 
 - Streamlit deployment link: `https://autonomous-retail-research-agent-kcb9ujagpgvoaik4ngr67u.streamlit.app/`
-- Local app URL: `http://127.0.0.1:8501`
 
 ## Final Project Highlights
 
